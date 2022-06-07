@@ -1,5 +1,5 @@
-# TicTacToe
-TicTacToe game with the help of reinforcement learning model
+# MENACE
+MENACE - a Tic tac toe game using reinforcement learning model
 
 
 ## Instruction to run the Model
@@ -13,7 +13,7 @@ TicTacToe game with the help of reinforcement learning model
 - In the command line type ``` export FLASK_APP=model-api ```
 - then ``` python3 -m flask run ```
 - the API will run on the port http://localhost:5000
-- Next, Clone the repository [TICTACTOE-FRONTEND](https://github.com/coderbirju/PSA_Tic_Tac_Toe_FE)
+- Next, Clone the repository (https://github.com/coderbirju/Menace.git)
 - CD into the tictactoe folder
 - In the commandline type ```npm install``` (make sure you have already installed [Nodejs](https://nodejs.org/en/)
 - Once packages are installed, go to localhost:3000 in the browser to play the game
@@ -21,8 +21,8 @@ TicTacToe game with the help of reinforcement learning model
 
 ## Team Member
 
-* Shrikrishna Joisa : 002920963
-* Arjun Raja Yogidas: 002964082
+* Shrikrishna Joisa
+* Arjun Raja Yogidas
 
 
 ## References
